@@ -29,6 +29,7 @@ dofile(path.."/spider.lua") -- AspireMint
 
 -- NPC
 dofile(path.."/npc.lua") -- TenPlus1
+dofile(path.."/orc.lua")
 
 -- Mob Items
 dofile(path.."/crafts.lua")
